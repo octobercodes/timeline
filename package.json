@@ -1,0 +1,25 @@
+{
+  "name": "@october/timeline",
+  "version": "0.1.0",
+  "description": "A front-end JavaScript library (written in TypeScript) for building graphical timelines with Raphael.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octobercodes/timeline.git"
+  },
+  "keywords": [
+    "raphael",
+    "raphaeljs",
+    "timeline",
+    "chronoline"
+  ],
+  "author": "Michael Szul <michael@szul.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szul/octobercodes/issues"
+  },
+  "homepage": "https://github.com/szul/octobercodes#readme"
+}
