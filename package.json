@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/szul/octobercodes/issues"
   },
-  "homepage": "https://github.com/szul/octobercodes#readme"
+  "homepage": "https://github.com/szul/octobercodes#readme",
+  "dependencies": {
+    "@types/raphael": "^2.1.30"
+  }
 }
